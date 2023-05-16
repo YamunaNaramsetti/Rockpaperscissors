@@ -1,0 +1,17 @@
+.score {
+  font-family: 'Roboto';
+  color: white;
+}
+.score-para {
+  color: white;
+}
+.images-cont {
+  background-color: #223a5f;
+}
+.cont {
+  border-style: solid;
+  border-color: white;
+  border-width: 400;
+  color: white;
+  font-weight: 100;
+}
